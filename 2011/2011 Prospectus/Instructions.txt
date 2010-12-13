@@ -1,0 +1,108 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: 2011 Prospectus.indd
+
+PACKAGE DATE: 12/5/10 1:58 PM
+Creation Date: 12/5/10
+Modification Date: 12/5/10
+
+CONTACT INFORMATION
+
+Company Name: Open Source Bridge
+Contact: Reid Beels
+Address: 
+
+
+
+
+
+Phone: 503 830 2651
+Fax: 
+Email: reid@opensourcebridge.org
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :None
+
+FONTS
+11 Fonts Used; 0 Missing, 1 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: HelveticaNeue; Type: TrueType, Status: OK
+- Name: HelveticaNeue-Bold; Type: TrueType, Status: OK
+- Name: HelveticaNeueLTPro-Bd; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTPro-Hv; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTPro-It; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTPro-Lt; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTPro-LtIt; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTPro-Md; Type: Type 1, Status: Embedded
+- Name: HelveticaNeueLTPro-Md; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTPro-Roman; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTPro-Th; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 7 Links Found; 0 Modified, 0 Missing
+Images: 0 Embedded, 5 use RGB color space
+
+
+PRINT SETTINGS
+PPD: Kyocera KM-C3232 KPDL, (CubeSpace Color Printer)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 in, 0 in, 0 in, 0 in
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 8.5 in x 11 in
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. 2011 Prospectus.indd; type: Adobe InDesign publication; size: 2724K
+2. HelveticaNeue.dfont; type: Font file; size: 1373K
+3. HelveticaNeueLTPro-Bd.otf; type: Font file; size: 34K
+4. HelveticaNeueLTPro-Hv.otf; type: Font file; size: 40K
+5. HelveticaNeueLTPro-It.otf; type: Font file; size: 34K
+6. HelveticaNeueLTPro-Lt.otf; type: Font file; size: 42K
+7. HelveticaNeueLTPro-LtIt.otf; type: Font file; size: 39K
+8. HelveticaNeueLTPro-Md.otf; type: Font file; size: 41K
+9. HelveticaNeueLTPro-Roman.otf; type: Font file; size: 34K
+10. HelveticaNeueLTPro-Th.otf; type: Font file; size: 41K
+11. 2009 Attendee Ages.ai; type: Linked file; size: 1052K
+12. 2009 Attendee Education.ai; type: Linked file; size: 1053K
+13. 3644716305_599c5a0344_b.jpg; type: Linked file; size: 289K
+14. 3647982723_f136239b3c_b.jpg; type: Linked file; size: 330K
+15. 3673653331_0a56ae57b9_o.jpg; type: Linked file; size: 418K
+16. 3673670761_8903016f46_o.jpg; type: Linked file; size: 255K
+17. 3673692163_210445f40a_o.jpg; type: Linked file; size: 258K
